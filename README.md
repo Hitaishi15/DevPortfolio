@@ -1,6 +1,6 @@
 # DevPortfolio - Aurelia
 
-A modern, responsive portfolio website showcasing web development skills and projects.
+A modern, responsive portfolio website showcasing web development skills and projects(JUST AN ANOTHER **PROJECT** NOT A REAL PORTFOLIO).
 
 ## Project Description
 
